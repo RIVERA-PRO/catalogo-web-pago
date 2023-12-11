@@ -20,7 +20,7 @@ const controller = {
                 name: req.user && req.user.name ? req.user.name : "Usuario Anónimo",
             },
             back_urls: {
-                success: "https://tienda-virtual-jet.vercel.app/compra",
+                success: "https://faugetdigital.shop/compra.php",
                 failure: "",
                 pending: "",
             },
